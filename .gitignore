@@ -1,0 +1,5 @@
+output/fixed_test.epub
+*.log
+*.pyc
+/output
+/venv
