@@ -1,5 +1,7 @@
 # Конвертер ранобэ с сайта [ranobelib.me](https://ranobelib.me) в EPUB
 
+Получение контента происходит через API ranobelib.me
+
 Попробовать в онлайне: [Демонстрация на Hugging Face Spaces](https://huggingface.co/spaces/daswer123/ranobelib_me_to_epub)
 
 Данный проект позволяет автоматически собирать тома и главы ранобэ с сайта **ranobelib.me** и конвертировать их в удобный формат EPUB.  
